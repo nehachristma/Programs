@@ -1,4 +1,7 @@
 # C++ Core Programs
 This repository contains all basic programs
 
-![j](https://github.com/nehachristma/Programs/assets/69244702/411f2669-0753-452d-bc0c-9d916ce19153)
+
+<img width="1200" alt="CC--" src="https://github.com/nehachristma/Programs/assets/69244702/a16ded15-87be-4fe9-b662-39ca02fa231e">
+
+
